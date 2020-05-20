@@ -9,6 +9,8 @@ Functions:
    Correlation function                    : corr.m
    Correlation value finding function      : cor_value.m
    Correlation figure finding function     : cor_figure.m
+   
+   
 Note: The correlation values are hold on 3 sec so you must note it down fast.(by using pause(3) function).
 
  %%%%%%%%%%%-------------------$$$$$$$$>>>>> BY JITHIN K C <<<<$$$$$$$$$-----------------%%%%%%%%%%%%%% @@@ 
